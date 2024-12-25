@@ -1,4 +1,6 @@
 # ✨Festimap
+>축제와 이벤트 현장에서 실시간으로 인구 혼잡 및 안전 정보를 제공하여, 편리하고 안전하게 축제를 즐길 수 있도록 돕는 안전관리 서비스
+
 ![image](https://github.com/user-attachments/assets/f0242345-2763-43b2-ba3d-df799d05446f)
 
 ## 🔍 핵심기능
