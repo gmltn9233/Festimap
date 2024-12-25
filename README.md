@@ -71,13 +71,13 @@
     <thead>
         <tr>
             <td align="center">
-                <b>1st place</b> <br>Creative Design Competition (SJU, 2024)
+                <b>1st place</b> <br>Creative Design Competition <br> (SJU, 2024)
             </td>
             <td align="center">
-                <b>2nd place</b> <br>IN-JEJU CHALLENGE (사물인터넷 혁신융합대학사업단, 2024)
+                <b>2nd place</b> <br>IN-JEJU CHALLENGE <br> (사물인터넷 혁신융합대학사업단, 2024)
             </td>
             <td align="center">
-                <b>Excellent Team</b> <br>WE-Meet Project (교육부장관상, 2024)
+                <b>Excellent Team</b> <br>WE-Meet Project <br> (교육부장관상, 2024)
             </td>
         </tr>
     </thead>
