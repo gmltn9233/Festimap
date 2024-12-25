@@ -1,8 +1,17 @@
 # ✨Festimap
-실시간으로 보는 축제의 흐름, Festimap
+![image](https://github.com/user-attachments/assets/f0242345-2763-43b2-ba3d-df799d05446f)
 
-## 🎈 핵심기능
+## 🔍 핵심기능
+![image](https://github.com/user-attachments/assets/5c0b4a7f-f1ad-4dec-b7bc-6cac4f932e04)
+* **안전도 & 혼잡도 지도**: 유동인구와 위험도 수치를 시각화하여 직관적으로 축제 상황을 파악할 수 있어요.
+* **도보 경로 흐름**: 도보 경로 단위의 상세한 혼잡도 정보를 제공받을 수 있어요.
 
+</br>
+
+![image](https://github.com/user-attachments/assets/e6bf90ae-8e6f-40ac-86c9-759c6f615b86)
+* **혼잡도 경보 알림**: 사용자의 현재 위치에서 혼잡도가 높아질 경우, 푸시 알림으로 경고를 보내줘요.
+* **대피 경로 추천**: 근처 위험도가 낮은 지역으로 가장 가까운, 가장 안전한 2가지의 경로를 추천해줘요.
+* **혼잡도 기반 길찾기**: 목적지까지의 혼잡도, 소요시간, 거리 정보를 제공해줘요.
 
 ## 🙋🏻‍♀️ 팀원 소개
 <table>
