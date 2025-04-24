@@ -90,7 +90,7 @@
                 <img src="https://github.com/user-attachments/assets/07f21b57-5c99-4d35-88f2-daaa40fa9aee" alt="IN-JEJU" width="400" height="400" style="border-radius: 50%;">
             </td>
             <td align="center">
-                <img src="https://github.com/user-attachments/assets/placeholder-for-award" alt="WE-Meet Project" width="400" height="400" style="border-radius: 50%;">
+                <img src="https://github.com/user-attachments/assets/703ec794-686f-43cd-956d-e252c7d4553f" alt="WE-Meet Project" width="400" height="400" style="border-radius: 50%;">
             </td>
         </tr>
     </tbody>
